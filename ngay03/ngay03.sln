@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ngay03", "ngay03\ngay03.csproj", "{3F7C9009-0565-4CAB-BEB7-F71577179D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7C9009-0565-4CAB-BEB7-F71577179D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7C9009-0565-4CAB-BEB7-F71577179D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7C9009-0565-4CAB-BEB7-F71577179D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7C9009-0565-4CAB-BEB7-F71577179D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B0A6BD-CCDD-4F59-859F-6BA48D25FBCB}
+	EndGlobalSection
+EndGlobal
